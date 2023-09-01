@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VarSleepSci
+- Cuurently Building Mercury Automotive with my flatmates. Mercury purely focuses on building the finest electric motorbikes in india.
 - 👀 I’m interested in Entrepreneurship, startups, Programming, web dev, UI UX, neuroscience, astronomy, sleep science, and AI.
 - 🌱 I’m currently learning Front-end web development and Data science.
 - 📫 How to reach me => var.sathaye@gmail.com
